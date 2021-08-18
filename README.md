@@ -1,4 +1,6 @@
 # howmuchfruit-react
+<img width="1439" alt="Screenshot 2021-08-18 at 20 38 02" src="https://user-images.githubusercontent.com/74725016/129961916-61bb175b-bc9c-43fe-ac5b-0b6c1fcb445d.png">
+
 
 how much fruit application, built using react.
 
@@ -32,6 +34,7 @@ I used Trello to keep track of what needed to be done. This helped break up the 
 <img width="1439" alt="Screenshot 2021-08-18 at 20 38 02" src="https://user-images.githubusercontent.com/74725016/129961724-1ad490ee-1912-4e89-8873-293651c1a310.png">
 <img width="1437" alt="Screenshot 2021-08-18 at 20 39 01" src="https://user-images.githubusercontent.com/74725016/129961735-c0dc624d-3bcb-46d2-8b91-72875137d293.png">
 <img width="1440" alt="Screenshot 2021-08-18 at 20 39 29" src="https://user-images.githubusercontent.com/74725016/129961741-809cd79b-b550-426d-b4d1-8871848b8310.png">
+<img width="1440" alt="Screenshot 2021-08-18 at 20 40 10" src="https://user-images.githubusercontent.com/74725016/129961882-e3ea9f65-69ea-4f3a-8ffe-cd4aac844c7b.png">
 
 
 
