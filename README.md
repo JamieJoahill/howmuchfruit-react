@@ -29,10 +29,10 @@ Figma - Wireframing
 I used Trello to keep track of what needed to be done. This helped break up the SPA(Single Page Application) into more manageable tasks
 
 **ScreenShots**
-![Uploading Screenshot 2021-08-18 at 20.38.02.png…]()
-<img width="1437" alt="Screenshot 2021-08-18 at 20 39 01" src="https://user-images.githubusercontent.com/74725016/129961477-7996c86e-17aa-42d5-b52f-13801ebae42d.png">
-<img width="1440" alt="Screenshot 2021-08-18 at 20 39 29" src="https://user-images.githubusercontent.com/74725016/129961556-421526c1-24c8-4597-85e7-a7432aeb04f0.png">
-<img width="1440" alt="Screenshot 2021-08-18 at 20 39 29" src="https://user-images.githubusercontent.com/74725016/129961619-9aba2c5c-6205-41e3-8bd0-8fcd38784236.png">
+<img width="1439" alt="Screenshot 2021-08-18 at 20 38 02" src="https://user-images.githubusercontent.com/74725016/129961724-1ad490ee-1912-4e89-8873-293651c1a310.png">
+<img width="1437" alt="Screenshot 2021-08-18 at 20 39 01" src="https://user-images.githubusercontent.com/74725016/129961735-c0dc624d-3bcb-46d2-8b91-72875137d293.png">
+<img width="1440" alt="Screenshot 2021-08-18 at 20 39 29" src="https://user-images.githubusercontent.com/74725016/129961741-809cd79b-b550-426d-b4d1-8871848b8310.png">
+
 
 
 **Challenges and Problems**
